@@ -1,4 +1,4 @@
-![Swift Extensions](https://raw.githubusercontent.com/duonghominhhuy/swift-ig-image-viewer/master/Image/swift-ig-image-viewer.png)
+![Swift IG Image Viewer](https://raw.githubusercontent.com/duonghominhhuy/swift-ig-image-viewer/master/Image/swift-ig-image-viewer.png)
 
 [![Version](http://img.shields.io/badge/version-1.0.0-green.svg?style=flat)](https://github.com/duonghominhhuy/swift-ig-image-viewer)
 [![Github All Releases](https://img.shields.io/github/downloads/duonghominhhuy/swift-ig-image-viewer/total.svg)](https://github.com/duonghominhhuy/swift-ig-image-viewer)
